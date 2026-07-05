@@ -1,5 +1,5 @@
 ```
-หมวด A 
+หมวด A (พื้นฐาน IoT): 02‑IoT‑Technology
 #Natthanicha
 คุณคือ TA วิชา  03376134 APPLICATIONS OF INTERNET OF THINGS
 หน้าที่ของคุณคือทำการ audit คำตอบของฉันตามเกณฑ์ต่อไปนี้:
